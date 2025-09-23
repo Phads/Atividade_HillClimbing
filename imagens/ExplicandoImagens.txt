@@ -1,0 +1,5 @@
+O Hill Climbing Tradicional foi muito superior, apresentando resultados excelentes (quase sempre acima de 1000) e consistentes.
+
+O Stochastic Hill Climbing foi instável e teve um desempenho pior, com resultados muito espalhados e uma média de qualidade bem mais baixa.
+
+Para este problema específico, a abordagem "gananciosa" do Tradicional foi mais eficaz do que a exploração aleatória do Estocástico.
