@@ -1,0 +1,74 @@
+
+--- EXECUTANDO STOCHASTIC HILL CLIMBING 30 VEZES ---
+Rodada 1: Fitness encontrado = 967
+Rodada 2: Fitness encontrado = 952
+Rodada 3: Fitness encontrado = 822
+Rodada 4: Fitness encontrado = 914
+Rodada 5: Fitness encontrado = 901
+Rodada 6: Fitness encontrado = 914
+Rodada 7: Fitness encontrado = 853
+Rodada 8: Fitness encontrado = 958
+Rodada 9: Fitness encontrado = 871
+Rodada 10: Fitness encontrado = 886
+Rodada 11: Fitness encontrado = 940
+Rodada 12: Fitness encontrado = 835
+Rodada 13: Fitness encontrado = 935
+Rodada 14: Fitness encontrado = 877
+Rodada 15: Fitness encontrado = 769
+Rodada 16: Fitness encontrado = 798
+Rodada 17: Fitness encontrado = 960
+Rodada 18: Fitness encontrado = 744
+Rodada 19: Fitness encontrado = 832
+Rodada 20: Fitness encontrado = 843
+Rodada 21: Fitness encontrado = 751
+Rodada 22: Fitness encontrado = 797
+Rodada 23: Fitness encontrado = 859
+Rodada 24: Fitness encontrado = 796
+Rodada 25: Fitness encontrado = 971
+Rodada 26: Fitness encontrado = 866
+Rodada 27: Fitness encontrado = 862
+Rodada 28: Fitness encontrado = 853
+Rodada 29: Fitness encontrado = 878
+Rodada 30: Fitness encontrado = 904
+
+=======================================================
+Resultados finais das 30 rodadas (Stochastic):
+[967, 952, 822, 914, 901, 914, 853, 958, 871, 886, 940, 835, 935, 877, 769, 798, 960, 744, 832, 843, 751, 797, 859, 796, 971, 866, 862, 853, 878, 904]
+=======================================================
+PS C:\Users\Pedro\Documents\Atividade_Hill_Climbing> 
+
+Rodada 1: Fitness encontrado = 924
+Rodada 2: Fitness encontrado = 964
+Rodada 3: Fitness encontrado = 997
+Rodada 4: Fitness encontrado = 1019
+Rodada 5: Fitness encontrado = 1021
+Rodada 6: Fitness encontrado = 1042
+Rodada 7: Fitness encontrado = 994
+Rodada 8: Fitness encontrado = 1031
+Rodada 9: Fitness encontrado = 970
+Rodada 10: Fitness encontrado = 1037
+Rodada 11: Fitness encontrado = 1013
+Rodada 12: Fitness encontrado = 1037
+Rodada 13: Fitness encontrado = 1024
+Rodada 14: Fitness encontrado = 1037
+Rodada 15: Fitness encontrado = 1037
+Rodada 16: Fitness encontrado = 1007
+Rodada 17: Fitness encontrado = 941
+Rodada 18: Fitness encontrado = 986
+Rodada 19: Fitness encontrado = 1037
+Rodada 20: Fitness encontrado = 1037
+Rodada 21: Fitness encontrado = 1042
+Rodada 22: Fitness encontrado = 1024
+Rodada 23: Fitness encontrado = 1031
+Rodada 24: Fitness encontrado = 938
+Rodada 25: Fitness encontrado = 964
+Rodada 26: Fitness encontrado = 1037
+Rodada 27: Fitness encontrado = 1017
+Rodada 28: Fitness encontrado = 993
+Rodada 29: Fitness encontrado = 1037
+Rodada 30: Fitness encontrado = 1030
+
+======================================
+Resultados finais das 30 rodadas:
+[924, 964, 997, 1019, 1021, 1042, 994, 1031, 970, 1037, 1013, 1037, 1024, 1037, 1037, 1007, 941, 986, 1037, 1037, 1042, 1024, 1031, 938, 964, 1037, 1017, 993, 1037, 1030]
+======================================
